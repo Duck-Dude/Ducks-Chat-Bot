@@ -1,0 +1,2 @@
+your-gemini-api-key-here
+// get one here https://aistudio.google.com/app/apikey
